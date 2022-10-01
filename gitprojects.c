@@ -35,4 +35,4 @@ int main(int argc, char *argv[])
  fail:
   printf("Fail.\n");
  exit:
-  return 0;
+  return 0;::
